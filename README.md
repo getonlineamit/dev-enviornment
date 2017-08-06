@@ -1,2 +1,10 @@
-# dev-enviornment
-A boilerplate for a dev enviornment 
+## Simple React Starter kit
+
+Includes -- 
+
+lite-server 
+webpack
+react
+react-dom
+babel
+
