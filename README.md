@@ -16,3 +16,6 @@ Babel
 4.   npm run dev
 
 And that's it you are good to go
+
+
+![alt text](https://github.com/getonlineamit/dev-enviornment/blob/master/git.png)
