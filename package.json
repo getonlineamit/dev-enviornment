@@ -1,3 +1,4 @@
+
 {
   "name": "react-github",
   "version": "1.0.0",
@@ -5,7 +6,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "lite-server",
+    "start": "lite-server",
+    "dev": "npm run start | npm run watch",
     "watch": "webpack --watch"
   },
   "keywords": [
